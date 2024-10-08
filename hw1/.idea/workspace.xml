@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="42682f1d-d036-46a6-9d70-035e2242c972" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../.vscode/2023-1-types-io/.idea/2023-1-types-io.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../.vscode/c book exercise/chapter2.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../.vscode/c book exercise/chapter2.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../.vscode/c book exercise/chapter3.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../.vscode/c book exercise/chapter4.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../.vscode/c_cpp_properties.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../.vscode/launch.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../.vscode/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../.vscode/tasks.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/hw1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Circular Queue.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Circular Queue.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dynamic Array.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dynamic Array.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkedList.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkedList.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Train.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Two Stack One Queue.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Two Stack One Queue.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/query/cache-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cache-v2-ea2a093702e521111a81.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-20fd44f0bbecc092aab3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-6df62e2233a5f686f02c.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-a593d686ae2c845d6dd7.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.26.4/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.26.4/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.26.4/CMakeRCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.26.4/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdCXX/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/build.ninja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw2/.idea/hw2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw2/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-c619f04efd9439e52e5f.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw2/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-ec4f7edac789189b4f23.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw2/cmake-build-debug/.cmake/api/v1/reply/index-2024-09-29T06-54-37-0838.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../se_lab/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../se_lab/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../se_lab/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../se_lab/.idea/se_lab.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../se_lab/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../se_lab/lab1.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../se_lab/lab2.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/first/untitled/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/first/untitled/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/first/untitled/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/first/untitled/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/first/untitled/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../python/first/pythonProject/.idea/pythonProject.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2023" />
+    <option name="minorVersion" value="2.1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2mQjLk7QGwmCDOFHpFN5nM3VKEp" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "guide-for-CLion",
+    "last_opened_file_path": "D:/Codes/Git-Example-Remote/cpp/algorithm/hw1",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "settings.sync",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="C/C++ 文件.Train.cpp">
+    <configuration name="Circular Queue.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hw1" TARGET_NAME="Circular Queue.cpp" CONFIG_NAME="Circular Queue.cpp">
+      <option name="sourceFile" value="Circular Queue.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkedList.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hw1" TARGET_NAME="LinkedList.cpp" CONFIG_NAME="LinkedList.cpp">
+      <option name="sourceFile" value="LinkedList.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Train.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hw1" TARGET_NAME="Train.cpp" CONFIG_NAME="Train.cpp">
+      <option name="sourceFile" value="Train.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Two Stack One Queue.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hw1" TARGET_NAME="Two Stack One Queue.cpp" CONFIG_NAME="Two Stack One Queue.cpp">
+      <option name="sourceFile" value="Two Stack One Queue.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="array.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hw1" TARGET_NAME="array.cpp" CONFIG_NAME="array.cpp">
+      <option name="sourceFile" value="array.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="C/C++ 文件.Train.cpp" />
+        <item itemvalue="C/C++ 文件.LinkedList.cpp" />
+        <item itemvalue="C/C++ 文件.array.cpp" />
+        <item itemvalue="C/C++ 文件.Circular Queue.cpp" />
+        <item itemvalue="C/C++ 文件.Two Stack One Queue.cpp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="42682f1d-d036-46a6-9d70-035e2242c972" name="更改" comment="" />
+      <created>1727015639539</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1727015639539</updated>
+      <workItem from="1727015641127" duration="774000" />
+      <workItem from="1727074712246" duration="27829000" />
+      <workItem from="1727174460883" duration="190000" />
+      <workItem from="1727272515074" duration="721000" />
+      <workItem from="1727592849356" duration="37000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticEditVcpkgJson value="false" />
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticFoundErrors value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="CppFileRunConfiguration">
+        <watch expression="size1" language="ObjectiveC" />
+        <watch expression="size2" language="ObjectiveC" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
