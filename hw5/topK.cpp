@@ -19,6 +19,5 @@ int main() {
     }
     sort(arr, arr + i);
     cout << arr[i - k] << endl;
-
     return 0;
 }
