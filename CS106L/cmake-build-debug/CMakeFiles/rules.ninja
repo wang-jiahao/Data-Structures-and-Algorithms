@@ -6,7 +6,7 @@
 # It is included in the main 'build.ninja'.
 
 # =============================================================================
-# Project: midterm_exam
+# Project: CS106L
 # Configurations: Debug
 # =============================================================================
 # =============================================================================
@@ -23,7 +23,7 @@ rule CUSTOM_COMMAND
 # Rule for re-running cmake.
 
 rule RERUN_CMAKE
-  command = "D:\Software\CLion 2023.2.1\bin\cmake\win\x64\bin\cmake.exe" --regenerate-during-build -S"D:\Codes\cpp\Data Structures and Algorithms\midterm_exam" -B"D:\Codes\cpp\Data Structures and Algorithms\midterm_exam\cmake-build-debug"
+  command = "D:\Software\CLion 2023.2.1\bin\cmake\win\x64\bin\cmake.exe" --regenerate-during-build -S"D:\Codes\cpp\Data Structures and Algorithms\CS106L" -B"D:\Codes\cpp\Data Structures and Algorithms\CS106L\cmake-build-debug"
   description = Re-running CMake...
   generator = 1
 

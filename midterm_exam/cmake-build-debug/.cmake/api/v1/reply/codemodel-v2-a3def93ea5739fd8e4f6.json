@@ -12,11 +12,7 @@
 						"string" : "3.26"
 					},
 					"projectIndex" : 0,
-					"source" : ".",
-					"targetIndexes" : 
-					[
-						0
-					]
+					"source" : "."
 				}
 			],
 			"name" : "Debug",
@@ -27,23 +23,10 @@
 					[
 						0
 					],
-					"name" : "midterm_exam",
-					"targetIndexes" : 
-					[
-						0
-					]
+					"name" : "midterm_exam"
 				}
 			],
-			"targets" : 
-			[
-				{
-					"directoryIndex" : 0,
-					"id" : "midterm_exam::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-midterm_exam-Debug-1bd7d36233fca116d567.json",
-					"name" : "midterm_exam",
-					"projectIndex" : 0
-				}
-			]
+			"targets" : []
 		}
 	],
 	"kind" : "codemodel",

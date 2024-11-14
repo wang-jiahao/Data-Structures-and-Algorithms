@@ -1,3 +1,2 @@
-D:/Codes/cpp/Data Structures and Algorithms/midterm_exam/cmake-build-debug/CMakeFiles/midterm_exam.dir
 D:/Codes/cpp/Data Structures and Algorithms/midterm_exam/cmake-build-debug/CMakeFiles/edit_cache.dir
 D:/Codes/cpp/Data Structures and Algorithms/midterm_exam/cmake-build-debug/CMakeFiles/rebuild_cache.dir
