@@ -1,6 +1,6 @@
 #include <iostream>
+#include <unordered_set>
 #include <vector>
-#include <unordered_map>
 
 using namespace std;
 
@@ -14,13 +14,13 @@ int main() {
         int n;
         cin >> n;
         vector<int> arr;
-        unordered_map<int, bool> uop;
+        unordered_set<int> set;
         while (n--) {
             int x;
             cin >> x;
-            if (uop.find(x) == uop.end()) {
+            if (set.find(x) == set.end()) {
+                set.insert(x);
                 arr.push_back(x);
-                uop[x] = true;
             }
         }
         for (auto i: arr) {
@@ -28,6 +28,5 @@ int main() {
         }
         cout << endl;
     }
-
     return 0;
 }
