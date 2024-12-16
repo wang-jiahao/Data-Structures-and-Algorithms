@@ -1,0 +1,4 @@
+D:\Software\Toolbox\CLion\bin\cmake\win\x64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=D:/Software/Toolbox/CLion/bin/ninja/win/x64/ninja.exe -G Ninja -S "D:\Codes\cpp\Data Structures and Algorithms\hw10" -B "D:\Codes\cpp\Data Structures and Algorithms\hw10\cmake-build-debug"
+-- Configuring done (0.4s)
+-- Generating done (0.0s)
+-- Build files have been written to: D:/Codes/cpp/Data Structures and Algorithms/hw10/cmake-build-debug
